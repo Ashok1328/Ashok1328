@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Ashok1328
 - 👀 I’m interested in learning things
-- 🌱 I’m currently learning html,css and javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html,css and javascrip
 - 📫 How to reach me through https://www.facebook.com/share/1a4VEdPB4k/?mibextid=LQQJ4d
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love playing Basketball
 
 <!---
