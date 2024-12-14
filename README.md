@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashok1328
 - 👀 I’m interested in learning things
 - 🌱 I’m currently learning html,css and javascrip
-- 📫 How to reach me through ashokkhatiwada!=1990@gmail.com
+- 📫 How to reach me through ashokkhatiwada1990@gmail.com
 - ⚡ Fun fact: I love playing Basketball
 
 <!---
