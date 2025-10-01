@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashok khatiwada</h1>
 <h3 align="center">A QA Engineer from Nepal</h3>
+<img align="right" alt="QA" width="400" src="https://www.dreamstime.com/quality-assurance-service-guarantee-standard-internet-business-technology-concept-image100478026"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok1328&label=Profile%20views&color=0e75b6&style=flat" alt="ashok1328" /> </p>
 
