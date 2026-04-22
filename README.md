@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/ashokd2058" target="blank"><img src="https://img.shields.io/twitter/follow/ashokd2058?logo=twitter&style=for-the-badge" alt="ashokd2058" /></a> </p>
 
-- 🔭 I’m currently working on **Selenium and Playwright Automation**
+- 🔭 I’m currently working on **Selenium and Playwright Automation through Java, JavaScript and TypeScript**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **ashokkhatiwada1990@gmail.com**
 
