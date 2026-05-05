@@ -5,18 +5,20 @@
   <img src="https://komarev.com/ghpvc/?username=ashok1328&label=Profile%20views&color=0e75b6&style=flat" alt="ashok1328" />
   <a href="https://linkedin.com/in/ashokkhatiwada"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ashokkhatiwada1990@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://bug-hunter-bytes.lovable.app"><img src="https://img.shields.io/badge/Bug%20Hunter%20Bytes-FF5733?style=flat&logo=firefox&logoColor=white" alt="Blog"/></a>
+  <a href="https://bug-hunter-bytes.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Bug%20Hunter%20Bytes-FF5733?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
 ### 🔍 About Me
 
-I'm a passionate **Software QA Engineer** focused on building reliable, bug-free software that users can trust. I work across the full testing lifecycle — from crafting detailed test plans to automating regression suites and validating APIs.
+I'm a passionate **Software QA Engineer** from Nepal, focused on building reliable, bug-free software that users can trust. I work across the full testing lifecycle — from crafting detailed test plans and test cases to automating regression suites with Selenium and validating APIs with Postman.
+
+I believe quality isn't just about finding bugs — it's about preventing them. That mindset drives everything I do, from writing my first test case to building automation frameworks.
 
 - 🔭 Currently working on **Selenium Automation & Playwright**
 - 🌱 Currently learning **TypeScript**
-- 🐛 I run **[Bug Hunter Bytes](https://bug-hunter-bytes.lovable.app)** — a QA knowledge hub
+- 🐛 I maintain **[Bug Hunter Bytes](https://bug-hunter-bytes.lovable.app)** — my personal QA portfolio showcasing projects, test cases, and automation work
 - 💬 Ask me about **Manual Testing, Automation, API Testing**
 - 📫 Reach me at **ashokkhatiwada1990@gmail.com**
 - ⚡ Fun fact: **I love playing Basketball 🏀**
@@ -75,6 +77,17 @@ I'm a passionate **Software QA Engineer** focused on building reliable, bug-free
 ### 📁 Featured Repositories
 
 > 🚧 *Coming soon — Selenium test scripts, Postman collections, and test case templates*
+
+---
+
+### 🌐 Portfolio
+
+Check out **[Bug Hunter Bytes](https://bug-hunter-bytes.lovable.app)** — my personal QA portfolio where I showcase:
+- 🧪 Test plans & test cases from real projects
+- 🤖 Automation scripts (Selenium & Playwright)
+- 🔌 API test collections (Postman)
+- 🐛 Bug reports with steps to reproduce
+- 📚 QA concepts, tips & techniques
 
 ---
 
