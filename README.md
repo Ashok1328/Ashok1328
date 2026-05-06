@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ashok1328&label=Profile%20views&color=0e75b6&style=flat" alt="ashok1328" />
   <a href="https://linkedin.com/in/ashokkhatiwada"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ashokkhatiwada1990@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://bug-hunt-pixel-shine.lovable.ap"><img src="https://img.shields.io/badge/Portfolio-Bug%20Hunter%20Bytes-FF5733?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://bug-hunt-pixel-shine.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Bug%20Hunter%20Bytes-FF5733?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@ I believe quality isn't just about finding bugs — it's about preventing them. 
 
 - 🔭 Currently working on **Selenium Automation & Playwright**
 - 🌱 Currently learning **TypeScript**
-- 🐛 I maintain **[Bug Hunter Bytes](https://bug-hunt-pixel-shine.lovable.ap)** — my personal QA portfolio showcasing projects, test cases, and automation work
+- 🐛 I maintain **[Bug Hunter Bytes](https://bug-hunt-pixel-shine.lovable.app)** — my personal QA portfolio showcasing projects, test cases, and automation work
 - 💬 Ask me about **Manual Testing, Automation, API Testing**
 - 📫 Reach me at **ashokkhatiwada1990@gmail.com**
 - ⚡ Fun fact: **I love playing Basketball 🏀**
@@ -82,7 +82,7 @@ I believe quality isn't just about finding bugs — it's about preventing them. 
 
 ### 🌐 Portfolio
 
-Check out **[Bug Hunter Bytes](https://bug-hunt-pixel-shine.lovable.ap)** — my personal QA portfolio where I showcase:
+Check out **[Bug Hunter Bytes](https://bug-hunt-pixel-shine.lovable.app)** — my personal QA portfolio where I showcase:
 - 🧪 Test plans & test cases from real projects
 - 🤖 Automation scripts (Selenium & Playwright)
 - 🔌 API test collections (Postman)
