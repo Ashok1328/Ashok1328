@@ -12,7 +12,7 @@
 
 ### 🔍 About Me
 
-I'm a passionate **Software QA Engineer** from Nepal, focused on building reliable, bug-free software that users can trust. I work across the full testing lifecycle — from crafting detailed test plans and test cases to automating regression suites with Selenium and validating APIs with Postman.
+I'm a **QA Engineer** who enjoys finding bugs and maintaining high quality standards across every project I undertake. Based in Nepal 🇳🇵, I'm focused on building reliable, bug-free software that users can trust — working across the full testing lifecycle from crafting detailed test plans to automating regression suites with Selenium and validating APIs with Postman.
 
 I believe quality isn't just about finding bugs — it's about preventing them. That mindset drives everything I do, from writing my first test case to building automation frameworks.
 
@@ -63,13 +63,13 @@ I believe quality isn't just about finding bugs — it's about preventing them. 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashok1328&show_icons=true&locale=en&theme=default" alt="ashok1328" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashok1328&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Ashok's GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashok1328&show_icons=true&locale=en&layout=compact" alt="ashok1328" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashok1328&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashok1328" alt="ashok1328" />
+  <img src="https://streak-stats.demolab.com?user=ashok1328&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
