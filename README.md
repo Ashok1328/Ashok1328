@@ -19,7 +19,7 @@ I believe quality isn't just about finding bugs — it's about preventing them. 
 - 🔭 Currently working on **Selenium Automation & Playwright**
 - 🌱 Currently learning **TypeScript**
 - 🐛 I maintain **[Bug Hunter Bytes](https://bug-hunt-pixel-shine.lovable.app)** — my personal QA portfolio showcasing projects, test cases, and automation work
-- 💬 Ask me about **Manual Testing, Automation, API Testing**
+- 💬 Ask me about **Manual Testing, Automation, API Testing, Performance & Security Testing**
 - 📫 Reach me at **ashokkhatiwada1990@gmail.com**
 - ⚡ Fun fact: **I love playing Basketball 🏀**
 
@@ -32,9 +32,10 @@ I believe quality isn't just about finding bugs — it's about preventing them. 
 | Manual Testing | Functional, Regression, UAT, Integration |
 | Automation Testing | Selenium WebDriver, Playwright |
 | API Testing | Postman |
-| Performance Testing | JMeter |
+| Performance Testing | JMeter — Load, Stress & Scalability Testing |
+| Security Testing | OWASP ZAP — Vulnerability Scanning, DAST |
 | Database Testing | MySQL, MongoDB (CRUD) |
-| CI/CD | Jenkins |
+| CI/CD | Jenkins, GitHub Actions |
 | Methodologies | Agile/Scrum, SDLC, STLC |
 | Documentation | Test Plans, Test Cases, Release Notes, Deployment Tracking |
 
@@ -51,6 +52,8 @@ I believe quality isn't just about finding bugs — it's about preventing them. 
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="jmeter" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat&logo=owasp&logoColor=white" alt="owasp-zap" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
